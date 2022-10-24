@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1575842694 source:c:\users\hp\desktop\semester 1 cycle ingénieure\algo et programmation avancée\expression_arithmétique_arbre\main.c
+	<stdio.h>
+	<stdlib.h>
+
